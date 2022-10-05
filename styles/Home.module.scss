@@ -19,13 +19,6 @@
   font-weight: 300;
 }
 .welcome {
-  display: flex;
-  position: relative;
-  font-size: 60px;
-  color: white;
-  width: 400px;
-  font-weight: 300;
-  padding-left: 15px;
   border-left: 2px solid transparent;
   border-top: 2px solid transparent;
   border-image: linear-gradient(
@@ -37,6 +30,13 @@
     #fd1892 100%
   );
   border-image-slice: 1;
+  display: flex;
+  position: relative;
+  font-size: 60px;
+  color: white;
+  width: 400px;
+  font-weight: 300;
+  padding-left: 15px;
 }
 
 .fullContent {
