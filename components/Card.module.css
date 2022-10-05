@@ -1,4 +1,5 @@
 .card {
+  margin-right: 20px;
   overflow: auto;
   max-width: 500px;
   padding: 16px;
@@ -12,5 +13,4 @@
     #fd1892 100%
   );
   border-image-slice: 1;
-  margin-right: 20px;
 }

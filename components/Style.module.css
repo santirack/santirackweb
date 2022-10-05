@@ -94,22 +94,12 @@
   );
   border-image-slice: 1;
 }
-<<<<<<< HEAD
-.fontMainMessage {
-  font-size: 15px;
-  color: white;
-}
-=======
->>>>>>> 67cc38d43faa55a6e8cc3622d7f6666f336746ea
 
 .hidden {
   display: none;
 }
-<<<<<<< HEAD
-=======
 
 .fontMainMessage {
   font-size: 15px;
   color: white;
 }
->>>>>>> 67cc38d43faa55a6e8cc3622d7f6666f336746ea
