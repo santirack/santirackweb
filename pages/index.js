@@ -5,9 +5,9 @@ import "typeface-roboto";
 
 export default function Home() {
   return (
-    <body className={classes.container}>
+    <div className={classes.container}>
       <Head>
-        <title>Santiago Rack Web</title>
+        <title>Santiago Rack Website</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -21,6 +21,6 @@ export default function Home() {
       <footer className={classes.foot}>
         <a>©2022 Santiago Rack</a>
       </footer>
-    </body>
+    </div>
   );
 }
