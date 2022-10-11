@@ -16,7 +16,7 @@ function ButtonList(props) {
         </li>
         <li>
           <button className={classes.button} onClick={props.onHandleJobs}>
-            Jobs
+            Experience
           </button>
         </li>
       </ul>

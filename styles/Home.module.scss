@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  width: auto;
   margin: 0;
   background-color: rgb(0, 0, 0);
   font-family: roboto;
@@ -46,7 +47,8 @@
     #fec837 75%,
     #fd1892 100%
   );
-  height: 450px;
+  height: auto;
+  padding-bottom: 40px;
   border-image-slice: 1;
 }
 
